@@ -49,8 +49,13 @@ For example, to create a button with Sleek UI styling, use the following code:
 <button class="sleek-button">Click me</button>
 ```
 
-## License 📃
-Sleek UI is released under the MIT License. See the LICENSE file for more details.
+## License 📝
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact 📧
+
+For any inquiries or suggestions, please contact us at [Utkarsh Patidar's LinkedIn](https://www.linkedin.com/in/utkarsh-patidar-800081221/).
 
 
 
