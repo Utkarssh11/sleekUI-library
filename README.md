@@ -7,7 +7,7 @@ Sleek UI is a CSS component library designed to accelerate website development b
 ![MIT License](https://img.shields.io/static/v1?label=vercel&message=success&color=<COLOR>)
 
 ## Demo 🌐
-![Sleek ui]()
+![Sleek ui]( https://github.com/Utkarssh11/sleekUI-library/blob/main/Screenshot%20(383).png?raw=true)
 
 
 ## Installation ⚙️
