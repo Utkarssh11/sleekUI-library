@@ -21,7 +21,7 @@ To use Sleek  UI add the following link in the head tag of your HTML document.
 
 For detailed documentation and examples of each component, please refer to the official Sleek UI website
 
-[Documentation](https://utkarssh11.github.io/sleekUI-library/)
+👉 [Documentation](https://utkarssh11.github.io/sleekUI-library/)
 
 
 ## Features ✨
